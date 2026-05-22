@@ -1,0 +1,4 @@
+target/
+src/main/resources/data/server_logs.txt
+.idea/
+*.bsp/
